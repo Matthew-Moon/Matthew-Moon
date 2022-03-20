@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 
-<div align = "center">
+<div align = "left">
 
 <br/>
 <h3>Joyful Joy 🥳</h3><br/>
