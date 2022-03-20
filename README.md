@@ -3,22 +3,22 @@
 
 <div align = "left">
 
-<br/>
-<h3> Hellow World</h3><br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviva-matthew&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+
+<h3> Hellow Matthew World</h3><br/>
 Hello, I'm Tae Young Moon 🌑🌕 (Matthew).<br/>
 My goal is to give good influence to society.<br/>
 
-
+<br><b>No gain, No pain</b></br>
   
-<br/><br/>
+<br>
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviva-matthew&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viva-matthew)](https://github.com/anuraghazra/github-readme-stats)  
+  
 ==========================================================================================
 
-<br/><br/>
+<br/>
 
 <h3>💻 Tech Stack 💻</h3>
 
