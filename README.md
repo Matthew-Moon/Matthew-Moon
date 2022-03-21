@@ -14,13 +14,13 @@ My goal is to give good influence to society.<br/>
   
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viva-matthew)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viva-matthew&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
   
 ==========================================================================================
 
 <br/>
 
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 Tech Stack</h3>
 
 <br/>
 
@@ -41,6 +41,20 @@ My goal is to give good influence to society.<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+
+
+<h3>👨🏻‍💻 Contact</h3> 
+✉️      : ansxodud5312@gmail.com<br>
+🏠     : https://moon-dev-blog.tistory.com/category/IT
+
+
+
+
+
+
+
+
+
 
 
 </div>
