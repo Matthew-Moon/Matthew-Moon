@@ -38,9 +38,9 @@ My goal is to give good influence to society.<br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-flat&logo=Subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-flat&logo=Jenkins&logoColor=white"/>
 
 
 <h3>👨🏻‍💻 Contact</h3> 
