@@ -10,7 +10,7 @@
 Hello, I'm Tae Young Moon 🌑🌕 (Matthew).<br/>
 My goal is to give good influence to society.<br/>
 
-<br><b>No gain, No pain</b></br>
+<br><b>No pain, No gain</b></br>
   
 <br>
 
