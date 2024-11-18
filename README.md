@@ -44,7 +44,14 @@ My goal is to give good influence to society.<br/>
 
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Session-000000?style=flat-flat&logo=Zeplin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeplin-000000?style=flat-flat&logo=Session&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redmine-B32024?style=flat-flat&logo=Redmine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-flat&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-flat&logo=Notion&logoColor=white"/>
+
+
+
 
 <h3>👨🏻‍💻 Contact</h3> 
 ✉️      : ansxodud5312@gmail.com<br>
