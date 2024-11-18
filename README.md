@@ -30,9 +30,8 @@ My goal is to give good influence to society.<br/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 
 <br>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/>
@@ -43,6 +42,9 @@ My goal is to give good influence to society.<br/>
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-flat&logo=Subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-flat&logo=Jenkins&logoColor=white"/>
 
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Session-000000?style=flat-flat&logo=Zeplin&logoColor=white"/>
 
 <h3>👨🏻‍💻 Contact</h3> 
 ✉️      : ansxodud5312@gmail.com<br>
